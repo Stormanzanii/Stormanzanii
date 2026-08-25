@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <b>⚡ DXGI → NVENC</b> &nbsp;·&nbsp; <b>✂️ FFmpeg editor</b> &nbsp;·&nbsp; <b>🔐 Signed updates</b>
+  <b>⚡ DXGI → your GPU's encoder</b> &nbsp;·&nbsp; <b>✂️ FFmpeg editor</b> &nbsp;·&nbsp; <b>🔐 Signed updates</b>
 </p>
 
 <h2 align="center">🛠️ Working with</h2>
