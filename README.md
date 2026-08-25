@@ -1,34 +1,41 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05C7B7,50:2F9DD4,100:ff4e6b&height=190&section=header&text=Arashii&fontSize=68&fontColor=ffffff&fontAlignY=34&desc=I%20build%20Windows%20software%20that%20captures%20your%20screen&descSize=17&descAlignY=56" alt="" />
 
-<br />
+<p align="center">
+  <a href="https://clypdat.xyz"><img src="https://img.shields.io/badge/clypdat.xyz-05C7B7?style=for-the-badge&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/ClypLabs/ClypDat"><img src="https://img.shields.io/badge/source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+  <a href="https://github.com/ClypLabs/ClypDat/releases/latest"><img src="https://img.shields.io/github/v/release/ClypLabs/ClypDat?style=for-the-badge&label=release&color=2F9DD4" alt="Latest release" /></a>
+  <a href="mailto:hi@clypdat.xyz"><img src="https://img.shields.io/badge/hi%40clypdat.xyz-607080?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+</p>
 
-### 🎬 ClypDat
+<h2 align="center">🎬 ClypDat</h2>
 
-A game clip recorder and editor for Windows. It keeps the last few minutes of gameplay in a
-rolling buffer, so one hotkey saves the moment that *already happened* — then trims it and
-sends it, with no account and nothing to pay for.
+<p align="center">
+  A game clip recorder and editor for Windows.<br />
+  A rolling buffer keeps the last few minutes of gameplay, so one hotkey saves the moment<br />
+  that <i>already happened</i> — no account, no subscription, no ads.
+</p>
 
-Built on DXGI desktop duplication feeding NVENC, an FFmpeg-backed editor, and an updater
-that refuses anything not signed by an offline key.
+<p align="center">
+  <b>⚡ DXGI → NVENC</b> &nbsp;·&nbsp; <b>✂️ FFmpeg editor</b> &nbsp;·&nbsp; <b>🎯 CS2 &amp; Dota auto-clip</b> &nbsp;·&nbsp; <b>🔐 Signed updates</b>
+</p>
 
-<a href="https://clypdat.xyz"><img src="https://img.shields.io/badge/clypdat.xyz-05C7B7?style=for-the-badge&logoColor=white" alt="Website" /></a>
-<a href="https://github.com/ClypLabs/ClypDat"><img src="https://img.shields.io/badge/source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
-<a href="https://github.com/ClypLabs/ClypDat/releases/latest"><img src="https://img.shields.io/github/v/release/ClypLabs/ClypDat?style=for-the-badge&label=&color=2F9DD4" alt="Latest release" /></a>
+<h2 align="center">🛠️ Working with</h2>
 
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Avalonia-8B44AC?style=for-the-badge&logo=avaloniaui&logoColor=white" alt="Avalonia" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-### 🛠️ Working with
+<h2 align="center">📬 Reach me</h2>
 
-`C#` · `.NET` · `Avalonia` · `Direct3D` · `FFmpeg` — and `TypeScript` with `Next.js` for the web side.
-
-<br />
-
-### 📬 Reach me
-
-Ask me about capture pipelines, hardware encoders, or anything Avalonia.
-
-Bugs and ideas go in the [issue tracker](https://github.com/ClypLabs/ClypDat/issues), security reports have
-[their own process](https://github.com/ClypLabs/ClypDat/security/policy), and anything else is
-[hi@clypdat.xyz](mailto:hi@clypdat.xyz).
+<p align="center">
+  Ask me about capture pipelines, hardware encoders, or anything Avalonia.<br />
+  <a href="https://github.com/ClypLabs/ClypDat/issues">Issues</a> for bugs ·
+  <a href="https://github.com/ClypLabs/ClypDat/security/policy">the policy</a> for security ·
+  <a href="mailto:hi@clypdat.xyz">hi@clypdat.xyz</a> for anything else
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4e6b,50:2F9DD4,100:05C7B7&height=110&section=footer" alt="" />
