@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05C7B7,50:2F9DD4,100:ff4e6b&height=190&section=header&text=Arashii&fontSize=68&fontColor=ffffff&fontAlignY=34&desc=I%20build%20Windows%20software%20that%20captures%20your%20screen&descSize=17&descAlignY=56" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05C7B7,50:2F9DD4,100:ff4e6b&height=190&section=header&text=Arashii&fontSize=68&fontColor=ffffff&fontAlignY=34&desc=Building%20ClypDat%20%E2%80%94%20a%20game%20clip%20recorder%20for%20Windows&descSize=17&descAlignY=56" alt="" />
 
 <p align="center">
   <a href="https://clypdat.xyz"><img src="https://img.shields.io/badge/clypdat.xyz-05C7B7?style=for-the-badge&logoColor=white" alt="Website" /></a>
