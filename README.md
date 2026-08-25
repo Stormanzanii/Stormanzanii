@@ -30,10 +30,10 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<h2 align="center">📬 Reach me</h2>
+<h2 align="center">📬 Get in touch</h2>
 
 <p align="center">
-  Ask me about capture pipelines, hardware encoders, or anything Avalonia.<br />
+  Always happy to hear from people using ClypDat.<br />
   <a href="https://github.com/ClypLabs/ClypDat/issues">Issues</a> for bugs ·
   <a href="https://github.com/ClypLabs/ClypDat/security/policy">the policy</a> for security ·
   <a href="mailto:hi@clypdat.xyz">hi@clypdat.xyz</a> for anything else
