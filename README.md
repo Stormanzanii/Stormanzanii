@@ -5,6 +5,7 @@
   <a href="https://github.com/ClypLabs/ClypDat"><img src="https://img.shields.io/badge/source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
   <a href="https://github.com/ClypLabs/ClypDat/releases/latest"><img src="https://img.shields.io/github/v/release/ClypLabs/ClypDat?style=for-the-badge&label=release&color=2F9DD4" alt="Latest release" /></a>
   <a href="mailto:hi@clypdat.xyz"><img src="https://img.shields.io/badge/hi%40clypdat.xyz-607080?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Stormanzanii&color=05C7B7&style=for-the-badge&label=visitors" alt="Profile views" />
 </p>
 
 <h2 align="center">🎬 ClypDat</h2>
