@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <b>⚡ DXGI → your GPU's encoder</b> &nbsp;·&nbsp; <b>✂️ FFmpeg editor</b> &nbsp;·&nbsp; <b>🔐 Signed updates</b>
+  <b>⚡ DXGI → your GPU's encoder</b> &nbsp;·&nbsp; <b>✂️ FFmpeg editor</b> &nbsp;·&nbsp; <b>🎚️ Separate audio tracks</b> &nbsp;·&nbsp; <b>🔐 Signed updates</b>
 </p>
 
 <h2 align="center">🛠️ Working with</h2>
