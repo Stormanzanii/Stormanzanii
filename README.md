@@ -7,17 +7,23 @@
   <a href="mailto:hi@clypdat.xyz"><img src="https://img.shields.io/badge/hi%40clypdat.xyz-607080?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
-Hey, I'm Arashii.
+<p align="center">Hey, I'm Arashii.</p>
 
-Mostly working on [ClypDat](https://github.com/ClypLabs/ClypDat): a clip recorder for
-Windows. Rolling buffer, one hotkey, the moment you already missed.
+<p align="center">
+  Mostly working on <a href="https://github.com/ClypLabs/ClypDat">ClypDat</a>: a clip recorder for<br />
+  Windows. Rolling buffer, one hotkey, the moment you already missed.
+</p>
 
-It keeps the last few minutes on the GPU and writes them out when you press the
-key. Game, mic and app audio land as separate tracks, so Discord can be muted
-long after the clip was saved.
+<p align="center">
+  It keeps the last few minutes on the GPU and writes them out when you press the<br />
+  key. Game, mic and app audio land as separate tracks, so Discord can be muted<br />
+  long after the clip was saved.
+</p>
 
-C# on .NET, Avalonia for the UI, FFmpeg doing the heavy lifting.
-[clypdat.xyz](https://clypdat.xyz) is TypeScript.
+<p align="center">
+  C# on .NET, Avalonia for the UI, FFmpeg doing the heavy lifting.<br />
+  <a href="https://clypdat.xyz">clypdat.xyz</a> is TypeScript.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -27,8 +33,10 @@ C# on .NET, Avalonia for the UI, FFmpeg doing the heavy lifting.
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-Bugs: [issues](https://github.com/ClypLabs/ClypDat/issues) ·
-Security: [policy](https://github.com/ClypLabs/ClypDat/security/policy) ·
-Else: [hi@clypdat.xyz](mailto:hi@clypdat.xyz)
+<p align="center">
+  Bugs: <a href="https://github.com/ClypLabs/ClypDat/issues">issues</a> ·
+  Security: <a href="https://github.com/ClypLabs/ClypDat/security/policy">policy</a> ·
+  Else: <a href="mailto:hi@clypdat.xyz">hi@clypdat.xyz</a>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4e6b,50:2F9DD4,100:05C7B7&height=110&section=footer" alt="" />
